@@ -36,11 +36,19 @@ Hi, I'm Kaviya Periyasamy 😉, a developer by profession and an educator by hea
  
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviyaPeriyasamy&layout=compact)](https://github.com/KaviyaPeriyasamy/github-readme-stats)
 
-![Kaviya's github stats](https://github-readme-stats.vercel.app/api?username=KaviyaPeriyasamy&show_icons=true&hide_border=true)
 
-<h4 align="center">Visitor's count :eyes:</h4>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaviyaPeriyasamy&theme=radical)](https://git.io/streak-stats)
 
-<p align="center"><img src="https://profile-counter.glitch.me/{KaviyaPeriyasamy}/count.svg" alt="KaviyaPeriyasamy :: Visitor's Count" /></p>
+![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaviyaPeriyasamy&show_icons=true&theme=radical)
+
+
+<h4 align="left">Visitor's count :eyes:</h4>
+
+<p align="left"><img src="https://profile-counter.glitch.me/{KaviyaPeriyasamy}/count.svg" alt="KaviyaPeriyasamy :: Visitor's Count" /></p>
+
+[![Kaviya's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaviyaPeriyasamy&theme=react-dark)](https://github.com/KaviyaPeriyasamy/github-readme-activity-graph)
+
 
 ⭐️ From [KaviyaPeriyasamy](https://github.com/KaviyaPeriyasamy)
