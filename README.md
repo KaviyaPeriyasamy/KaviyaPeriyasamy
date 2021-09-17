@@ -1,40 +1,45 @@
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/36359901/133745890-c7095692-cbe7-416b-bef8-3754aaa3332a.gif"/>
+Hi, I'm Kaviya Periyasamy 😉, a developer by profession and an educator by heart. I'm an open-source enthusiast. Beside's programming, I like delicious food 🥗🥩🌮🍣 and love doing hustles 🏃⛹️‍♂️🏋🏼‍♂️.
 
-
-
-
-
-Hi, I'm Kaviya Periyasamy 😉, a developer by profession and an educator by heart. I'm an open-source enthusiast. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing hustles 🏃⛹️‍♂️🏋🏼‍♂️.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" width="250px" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
   
   
 
 
-- 🌱 I’m currently learning Data science stuff's.
+- 🌱 I’m currently implementing js frameworks in my personal projects & learning Data science related stuff's.
 - 💼 I’m also doing freelancing and mentoring in free times.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via kaviyaperiyasamy22@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1URL6bpe5j13jm_ASd8v-QbNshRT_tkLL/view?usp=sharing) to get more info.
 
-<h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/yarn.png" alt=yarn width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/django.png" alt=django width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
- 
+
+<h3 align="center">Skills and Tools: </h3>
+<p align="center">
+	
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/angular/angular/blob/master/aio/src/assets/images/logos/angular/angular.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </p>
+
+<br/>
+
+<p align="center">
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>&nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/django.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png"></code> &nbsp;&nbsp;
+	<code><img height="75" src="https://raw.githubusercontent.com/frappe/frappe/develop/frappe/public/images/frappe-framework-logo.png"></code>  &nbsp;&nbsp;
+<code><img height="75" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"></code> &nbsp;&nbsp;
+</p>
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviyaPeriyasamy&layout=compact)](https://github.com/KaviyaPeriyasamy/github-readme-stats)
 
@@ -51,4 +56,16 @@ Hi, I'm Kaviya Periyasamy 😉, a developer by profession and an educator by hea
 [![Kaviya's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaviyaPeriyasamy&theme=react-dark)](https://github.com/KaviyaPeriyasamy/github-readme-activity-graph)
 
 
-⭐️ From [KaviyaPeriyasamy](https://github.com/KaviyaPeriyasamy)
+<h3 align="center">
+  Get in touch via
+</h3>
+<br/>
+
+<p align="center">
+ <a href="mailto:kaviyaperiyasamy22@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/kaviya-periyasamy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/kaviya_nov3"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://medium.com/@kaviyaperiyasamy22"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
+</p>
+
+### Show some ❤️ by starring :star: [my repo's](https://github.com/KaviyaPeriyasamy) !
