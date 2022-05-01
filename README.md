@@ -22,7 +22,8 @@ Hi, I'm Kaviya Periyasamy 😉, a developer by profession and an educator by hea
 <code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png"></code> &nbsp;&nbsp;
-<code><img height="50" src="https://github.com/angular/angular/blob/master/aio/src/assets/images/logos/angular/angular.png"></code> &nbsp;&nbsp;
+<code><img height="50"
+src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png"></code> &nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </p>
 
