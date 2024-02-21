@@ -8,7 +8,7 @@ Hi, I'm Kaviya Periyasamy 😉, a developer by profession and an educator by hea
 
 - 🌱 I’m currently implementing js frameworks in my personal projects & learning Data science related stuff's.
 - 💼 I’m also doing freelancing and mentoring in free times.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1URL6bpe5j13jm_ASd8v-QbNshRT_tkLL/view?usp=sharing) to get more info.
+- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1UZy3Xpbz9_oJH-BfHctthJg62QNC_h3C/view?usp=sharing) to get more info.
 
 
 <h3 align="left">Skills and Tools: </h3>
